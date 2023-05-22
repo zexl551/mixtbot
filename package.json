@@ -1,0 +1,29 @@
+{
+  "name": "mixtbot",
+  "version": "1.9.5",
+  "description": "A discord bot that does mod stuff.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "jsoning": "^0.11.22",
+    "node-cron": "^3.0.1" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaly666",
+  "license": "ISC",
+  "keywords": [
+    "discord",
+    "bot",
+    "kaly"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaly666/all-in-vacantion-discord-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaly666/all-in-vacantion-discord-bot/issues"
+  },
+  "homepage": "https://github.com/kaly666/all-in-vacantion-discord-bot#readme"
+}
